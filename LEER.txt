@@ -1,0 +1,8 @@
+Variables declaradas en VAR_MAIN: comentadas
+EVAPTUDO
+QTUDO(:),HTUDO(:),YTUDO(:)
+
+Convertir archivos de texto a binario:
+cota_area.flp -->> Flood_Area.bin y Flood_Stage.bin
+medias.cru    -->> coordinates.cli
+medias.cru	  -->> medias_cru.bin
